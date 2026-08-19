@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Experiment outputs (generated CSV / plots)
+*.csv
+*.png
+
+# Keep documentation images in git
+!docs/assets/
+!docs/assets/*.png
+!docs/assets/*.jpg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
