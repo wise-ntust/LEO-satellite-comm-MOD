@@ -84,7 +84,12 @@ bash server.sh -s <SERVER_IP> -c <CLIENT_IP>
 
 ## 致謝
 
-感謝詩涵學姐、應詰學長、名初學長，以及 WISE Lab 的等學長姐對於本教材的開發。
+1. 本專案為[教育部下世代行動通訊技術人才培育計畫](https://proj.moe.edu.tw/B5GMOE/Default.aspx)之[低軌衛星通訊非地面網路跨層次系統整合教學聯盟課程](https://5grf.ntust.edu.tw/)模組三成果
+2. 謝謝黃琴雅、林詩涵、許應詰、周名初、利晉霆與所有 WISE LAB 成員對本專案的貢獻，讓專案得以順利完成。
+
+![](./docs/assets/5grf-logo.png)
+
+![](./docs/assets/wise-lab-logo.png)
 
 ## 授權
 
