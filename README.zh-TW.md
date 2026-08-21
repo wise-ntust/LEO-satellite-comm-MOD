@@ -1,4 +1,4 @@
-# 低軌衛星網路 UDP 傳輸實驗
+# 模組系列三：低軌衛星通訊網路之實驗模組
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 
@@ -30,11 +30,11 @@
 
 ```text
 .
-├── Code_exp2/          # 無損／有損 UDP 傳輸
+├── Code_exp2/          # 端對端傳輸實驗
 │   ├── EXP_1/          # Server → Client（無 Proxy）
 │   ├── EXP_2/          # Server → Proxy → Client
 │   └── docs/           # 單機版與雙機版手冊
-├── Code_exp3/          # LEO 網路 FIFO 排程
+├── Code_exp3/          # 排程機制於低軌衛星通訊傳輸實驗
 │   └── docs/
 ├── docs/assets/        # 拓樸照片與範例結果圖
 ├── LICENSE
@@ -71,8 +71,8 @@ bash server.sh -s <SERVER_IP> -c <CLIENT_IP>
 
 ## 文件
 
-- [Experiment 2 README](Code_exp2/README.md) · [中文](Code_exp2/README.zh-TW.md)
-- [Experiment 3 README](Code_exp3/README.md) · [中文](Code_exp3/README.zh-TW.md)
+- [實驗 2 README](Code_exp2/README.md) · [中文](Code_exp2/README.zh-TW.md)
+- [實驗 3 README](Code_exp3/README.md) · [中文](Code_exp3/README.zh-TW.md)
 
 ## 示範影片
 
@@ -87,9 +87,7 @@ bash server.sh -s <SERVER_IP> -c <CLIENT_IP>
 1. 本專案為[教育部下世代行動通訊技術人才培育計畫](https://proj.moe.edu.tw/B5GMOE/Default.aspx)之[低軌衛星通訊非地面網路跨層次系統整合教學聯盟課程](https://5grf.ntust.edu.tw/)模組三成果
 2. 謝謝黃琴雅、林詩涵、許應詰、周名初、利晉霆與所有 WISE LAB 成員對本專案的貢獻，讓專案得以順利完成。
 
-![](./docs/assets/5grf-logo.png)
-
-![](./docs/assets/wise-lab-logo.png)
+![](./docs/assets/5grf-logo.png)![](./docs/assets/wise-lab-logo.png)
 
 ## 授權
 

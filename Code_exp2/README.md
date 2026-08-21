@@ -1,4 +1,4 @@
-# Experiment 2: Lossless and Lossy UDP Transfer
+# Experiment 2: End-to-End Transmission Lab
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 

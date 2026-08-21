@@ -1,4 +1,4 @@
-# LEO Satellite Network UDP Experiments
+# Module Series 3: Lab of LEO Satellite Communication
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 
@@ -87,9 +87,7 @@ Issues and pull requests are welcome. Please describe the experiment (`Code_exp2
 1. This project is funded by the Ministry of Education of Taiwan.
 2. We would like to thank Chin-Ya Huang, Shih-Han Lin, Ying-Chieh Hsu,  Ming-Chu Chou, Jin-Ting Li and all WISE Lab members for their contributions to making this project happen.
 
-![](./docs/assets/5grf-logo.png)
-
-![](./docs/assets/wise-lab-logo.png)
+![](./docs/assets/5grf-logo.png)![](./docs/assets/wise-lab-logo.png)
 
 ## License
 

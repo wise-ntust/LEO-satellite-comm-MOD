@@ -1,4 +1,4 @@
-# Experiment 3: FIFO Transfer with Elevation-Angle Delay
+# Experiment 3: Scheduling Mechanism for LEO Communication Lab
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 

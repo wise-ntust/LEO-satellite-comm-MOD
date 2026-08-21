@@ -1,4 +1,4 @@
-# 實驗 2：無損與有損 UDP 傳輸
+# 實驗 2：端對端傳輸實驗
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 

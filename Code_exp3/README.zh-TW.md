@@ -1,4 +1,4 @@
-# 實驗 3：FIFO 傳輸與仰角延遲
+# 實驗 3：排程機制於低軌衛星通訊傳輸實驗
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 
