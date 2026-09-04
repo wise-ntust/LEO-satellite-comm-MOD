@@ -4,6 +4,10 @@
 
 UDP-based lab experiments that emulate satellite-to-terminal data transfer: lossless vs. lossy links, and FIFO forwarding with elevation-angle-dependent delay.
 
+## Download
+
+[Press it](https://github.com/wise-ntust/LEO-satellite-comm-MOD/releases/download/v1.0.0/LEO-satellite-comm-MOD-v1.0.0.zip) to download newest code.
+
 ## Overview
 
 Each experiment uses UDP sockets to play the roles of a satellite, an optional gateway, and a ground terminal:
