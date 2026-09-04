@@ -4,6 +4,10 @@
 
 以 UDP 模擬衛星到地面終端的資料傳輸實驗：對比無損／有損鏈路，以及在不同 Gateway 仰角所對應的延遲下以 FIFO 轉發的傳輸。
 
+## 下載程式
+
+[點選這邊](https://github.com/wise-ntust/LEO-satellite-comm-MOD/releases/download/v1.0.0/LEO-satellite-comm-MOD-v1.0.0.zip) 下載最新的程式碼。
+
 ## 專案說明
 
 各實驗以 UDP socket 扮演衛星、可選閘道、以及地面終端：
